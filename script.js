@@ -1,3 +1,5 @@
+const Konva = require('konva-node');
+
 var width = window.innerWidth;
     var height = window.innerHeight;
 
